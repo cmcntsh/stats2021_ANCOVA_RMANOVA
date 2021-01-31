@@ -1,1 +1,17 @@
-# stats2021_ANCOVA_RMANOVA
+# ANCOVA & RMANOVA
+
+## Exercises
+
+* 
+
+## Readings
+
+* 
+
+## Statistical Concept Videos
+
+* 
+
+## Statistical Software Videos
+
+* 
